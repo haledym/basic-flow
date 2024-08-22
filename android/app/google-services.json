@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949589704929",
+    "project_id": "dym-tasks-29ba7",
+    "storage_bucket": "dym-tasks-29ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949589704929:android:03b3a0201e966ec16937a0",
+        "android_client_info": {
+          "package_name": "dym.tasks.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMAo7zC65Czj3EHdqBYgnyEQ0aX6NTLmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

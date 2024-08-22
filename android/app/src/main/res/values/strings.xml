@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">basic-flow</string>
+    <string name="title_activity_main">basic-flow</string>
+    <string name="package_name">dym.tasks.com</string>
+    <string name="custom_url_scheme">dym.tasks.com</string>
+    <string name="server_client_id">243962665842-nse544h3k4mb1a5q62vjme6p9pj4jsj0.apps.googleusercontent.com</string>
+</resources>
